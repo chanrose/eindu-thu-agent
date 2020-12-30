@@ -1,0 +1,7 @@
+{
+  "name": "eindu-thu-agent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
