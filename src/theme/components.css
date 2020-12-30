@@ -1,0 +1,19 @@
+.toolbar-noBorder {
+    border-bottom: 0px;
+}
+
+.header-profile {
+    margin: 1vh 1vh;
+    height: 40px;
+    width: 40px;
+}
+
+.comment-style {
+    width: 73vw;
+}
+
+.profile-avatar {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 150px;
+}
